@@ -15,7 +15,7 @@ def register():
 
     users.append([name, email])
 
-    return "<h2>Form Registered Successful</h2><a href='/'>Go Back</a>"
+    return "<h2>Form Registered Successful</h2><a href='/'>Go Back go back go</a>"
 
 if __name__ == '__main__':
     app.run(host='0.0.0.0', port=5000)
